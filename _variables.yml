@@ -1,0 +1,29 @@
+author: Jake Thompson
+
+instructor:
+  name: W. Jake Thompson, Ph.D.
+  name_no_title: Jake Thompson
+  work: University of Kansas
+  work_url: "https://atlas.ku.edu"
+  email: wjakethompson@ku.edu
+  url: "https://wjakethompson.com"
+  twitter: wjakethompson
+  github: wjakethompson
+  mastodon: wjakethompson
+
+event:
+  time: "1:00pm–5:00pm"
+  location: "Philadelphia, PA"
+  room: "Convention Center, 120B"
+  dates: "April 11, 2024"
+  github: "https://www.github.com/measr-workshop/ncme2024"
+  url: "https://ncme2024.measr.info"
+  copyright_year: "2024"
+
+university:
+  name: University of Kansas
+  url: "https://ku.edu"
+
+center:
+  name: Accessible Teaching, Learning, and Assessment Systems
+  url: "https://atlas.ku.edu/"

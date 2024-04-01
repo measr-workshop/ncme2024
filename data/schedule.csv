@@ -1,0 +1,8 @@
+group,subgroup,time,time_end,title,deadline,content,example
+Diagnostic Classification Models,Session 1,1:00pm,1:15pm,Welcome,,materials/01-intro,
+Diagnostic Classification Models,Session 2,1:15pm,2:00pm,Introduction to diagnostic models,,materials/02-dcm-intro,
+Diagnostic Classification Models,Session 3,2:00pm,3:00pm,Estimating diagnostic models,,materials/03-estimation,https://github.com/measr-workshop/ncme2024-exercises/blob/main/estimation.Rmd
+Diagnostic Classification Models,Break 1,3:00pm,3:15pm,Break,,,
+Diagnostic Classification Models,Session 4,3:15pm,4:15pm,Evaluating diagnostic models,,materials/04-evaluation,https://github.com/measr-workshop/ncme2024-exercises/blob/main/evaluation.Rmd
+Diagnostic Classification Models,Session 5,4:15pm,4:30pm,Wrap-up,,materials/05-closing,
+Diagnostic Classification Models,Session 6,4:30pm,5:00pm,Open discussion,,,

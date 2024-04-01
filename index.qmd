@@ -1,0 +1,44 @@
+---
+title: "Diagnostic Classification Modeling With R and Stan"
+subtitle: "Estimate and evaluate diagnostic models"
+details: |
+  NCME 2024
+sidebar: false
+toc: false
+page-layout: full
+format:
+  html:
+    template-partials: 
+      - html/home/title-block.html
+course-logo: /files/img/measr-hex.png
+---
+
+:::: {.home}
+
+::: {.grid .course-details}
+
+::: {.g-col-12 .g-col-sm-6}
+### Instructor
+
+- {{< fa user >}} &nbsp; [{{< var instructor.name >}}]({{< var instructor.url >}})
+- {{< fa university >}} &nbsp; [{{< var instructor.work >}}]({{< var instructor.work_url >}})
+- {{< fa envelope >}} &nbsp; [{{< var instructor.email >}}](mailto:{{< instructor.email >}})
+- {{< fa brands x-twitter >}} &nbsp; [@{{< var instructor.twitter >}}](https://www.twitter.com/{{< var instructor.twitter >}})
+- {{< fa brands mastodon >}} &nbsp; [@{{< var instructor.mastodon >}}@fosstodon.org](https://www.fosstodon.org/@{{< var instructor.mastodon >}})
+:::
+
+::: {.g-col-12 .g-col-sm-6}
+### Course details
+
+- {{< fa calendar-alt >}} &nbsp; {{< var event.dates >}}
+- {{< fa clock >}} &nbsp; {{< var event.time >}}
+- {{< fa location-dot >}} &nbsp; {{< var event.location >}}
+:::
+
+:::
+
+```{r echo=FALSE, eval = FALSE}
+knitr::include_graphics(here::here("files", "img", "eval-flowchart.png"), error = FALSE)
+```
+
+:::
