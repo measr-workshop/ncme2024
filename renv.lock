@@ -27,6 +27,27 @@
       ],
       "Hash": "164809cd72e1d5160b4cb3aa57f510fe"
     },
+    "Deriv": {
+      "Package": "Deriv",
+      "Version": "4.1.3",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": [
+        "methods"
+      ],
+      "Hash": "bc727aba82bcda74db0bbe188ec6757c"
+    },
+    "GPArotation": {
+      "Package": "GPArotation",
+      "Version": "2024.3-1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": [
+        "R",
+        "stats"
+      ],
+      "Hash": "b8b658ec0d7a6a55d9d01e00e3cafd20"
+    },
     "MASS": {
       "Package": "MASS",
       "Version": "7.3-60.0.1",
@@ -195,6 +216,16 @@
         "sys"
       ],
       "Hash": "cad6cf7f1d5f6e906700b9d3e718c796"
+    },
+    "assertthat": {
+      "Package": "assertthat",
+      "Version": "0.2.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": [
+        "tools"
+      ],
+      "Hash": "50c838a310445e954bc13f26f26a6ecf"
     },
     "backports": {
       "Package": "backports",
@@ -391,6 +422,20 @@
       ],
       "Hash": "3f038e5ac7f41d4ac41ce658c85e3042"
     },
+    "cluster": {
+      "Package": "cluster",
+      "Version": "2.1.6",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": [
+        "R",
+        "grDevices",
+        "graphics",
+        "stats",
+        "utils"
+      ],
+      "Hash": "0aaa05204035dc43ea0004b9c76611dd"
+    },
     "cmdstanr": {
       "Package": "cmdstanr",
       "Version": "0.7.1",
@@ -582,6 +627,17 @@
         "tidyr"
       ],
       "Hash": "57b5fc946c753f93651d4a65f0c5430b"
+    },
+    "dcurver": {
+      "Package": "dcurver",
+      "Version": "0.9.2",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": [
+        "Rcpp",
+        "RcppArmadillo"
+      ],
+      "Hash": "3d5b05c7b3f0f9916c618bfd3b4e684e"
     },
     "desc": {
       "Package": "desc",
@@ -1631,6 +1687,31 @@
       ],
       "Hash": "18e9c28c1d3ca1560ce30658b22ce104"
     },
+    "mirt": {
+      "Package": "mirt",
+      "Version": "1.41",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": [
+        "Deriv",
+        "GPArotation",
+        "Matrix",
+        "R",
+        "Rcpp",
+        "RcppArmadillo",
+        "dcurver",
+        "gridExtra",
+        "lattice",
+        "methods",
+        "mgcv",
+        "pbapply",
+        "splines",
+        "stats",
+        "stats4",
+        "vegan"
+      ],
+      "Hash": "b1352eacc777222fe1c41f5da2437f4c"
+    },
     "mnormt": {
       "Package": "mnormt",
       "Version": "2.1.1",
@@ -1717,6 +1798,28 @@
         "rstudioapi"
       ],
       "Hash": "ac364dee7ff8277fb4144fcc1e26302f"
+    },
+    "pbapply": {
+      "Package": "pbapply",
+      "Version": "1.7-2",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": [
+        "R",
+        "parallel"
+      ],
+      "Hash": "68a2d681e10cf72f0afa1d84d45380e5"
+    },
+    "permute": {
+      "Package": "permute",
+      "Version": "0.9-7",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": [
+        "R",
+        "stats"
+      ],
+      "Hash": "abf0ca85c1c752e0d04f46334e635046"
     },
     "pillar": {
       "Package": "pillar",
@@ -2286,6 +2389,30 @@
       ],
       "Hash": "5f5a7629f956619d519205ec475fe647"
     },
+    "spotifyr": {
+      "Package": "spotifyr",
+      "Version": "2.2.4",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": [
+        "R",
+        "assertthat",
+        "dplyr",
+        "httr",
+        "janitor",
+        "jsonlite",
+        "lubridate",
+        "magrittr",
+        "purrr",
+        "readr",
+        "rlang",
+        "rvest",
+        "stringr",
+        "tibble",
+        "xml2"
+      ],
+      "Hash": "e8bf8d1a356554a6f4f97126490ad80b"
+    },
     "stringi": {
       "Package": "stringi",
       "Version": "1.8.3",
@@ -2340,6 +2467,30 @@
         "cpp11"
       ],
       "Hash": "6d538cff441f0f1f36db2209ac7495ac"
+    },
+    "taylor": {
+      "Package": "taylor",
+      "Version": "3.0.0.9000",
+      "Source": "GitHub",
+      "RemoteType": "github",
+      "RemoteHost": "api.github.com",
+      "RemoteUsername": "wjakethompson",
+      "RemoteRepo": "taylor",
+      "RemoteRef": "main",
+      "RemoteSha": "c18765b233a8a395419ac535c701c5a619b87e65",
+      "Requirements": [
+        "R",
+        "crayon",
+        "ggplot2",
+        "glue",
+        "lifecycle",
+        "methods",
+        "rlang",
+        "scales",
+        "tibble",
+        "vctrs"
+      ],
+      "Hash": "104f0fb97c401959c7c182f1d6444913"
     },
     "tensorA": {
       "Package": "tensorA",
@@ -2565,6 +2716,21 @@
         "rlang"
       ],
       "Hash": "c03fa420630029418f7e6da3667aac4a"
+    },
+    "vegan": {
+      "Package": "vegan",
+      "Version": "2.6-4",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": [
+        "MASS",
+        "R",
+        "cluster",
+        "lattice",
+        "mgcv",
+        "permute"
+      ],
+      "Hash": "659fe7589b8e0b16baa49043a61a0ce0"
     },
     "viridisLite": {
       "Package": "viridisLite",
