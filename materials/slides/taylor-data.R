@@ -274,7 +274,7 @@ taylor_dcm <- measr_dcm(data = taylor_data, qmatrix = taylor_qmatrix,
                         type = "lcdm", backend = "cmdstanr",
                         chains = 4, parallel_chains = 4, seed = 121389,
                         iter_warmup = 1000, iter_sampling = 500,
-                        file = here("materials", "slides", "fits",
+                        file = here("materials", "slides", "fits", "data",
                                     "taylor-lcdm"))
 
 # Create final results ---------------------------------------------------------
