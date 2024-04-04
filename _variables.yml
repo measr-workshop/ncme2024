@@ -9,7 +9,8 @@ instructor:
   url: "https://wjakethompson.com"
   twitter: wjakethompson
   github: wjakethompson
-  mastodon: wjakethompson
+  mastodon: wjakethompson@fosstodon.org
+  bluesky: wjakethompson.com
 
 event:
   time: "1:00pm–5:00pm"
