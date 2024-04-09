@@ -624,7 +624,7 @@ loo_compare(ecpe, ecpe_dina, criterion = "loo",
   * Can you explain the results?
 
 ```{r countdown-4}
-countdown(minutes = 5, bottom = "10%")
+countdown(minutes = 15, bottom = "10%")
 ```
 
 ## {.exercise data-menu-title="Solution 4" background-image="figure/backgrounds/exercises.png" background-size="contain"}
