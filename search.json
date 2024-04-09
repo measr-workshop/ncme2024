@@ -165,7 +165,7 @@
     "href": "materials/slides/04-evaluation-slides.html#exercise-4",
     "title": "Evaluating diagnostic  classification models",
     "section": "Exercise 4",
-    "text": "Exercise 4\n\nEstimate a DINA model for the Taylor data\nAdd PSIS-LOO and WAIC criteria to both the LCDM and DINA models for the Taylor data\n\nUse loo_compare() to compare the LCDM and DINA models\n\nWhat do the findings tell us?\nCan you explain the results?\n\n\n\n\n\n\n\n−&plus;\n\n05:00"
+    "text": "Exercise 4\n\nEstimate a DINA model for the Taylor data\nAdd PSIS-LOO and WAIC criteria to both the LCDM and DINA models for the Taylor data\n\nUse loo_compare() to compare the LCDM and DINA models\n\nWhat do the findings tell us?\nCan you explain the results?\n\n\n\n\n\n\n\n−&plus;\n\n15:00"
   },
   {
     "objectID": "materials/slides/04-evaluation-slides.html#section-3",
