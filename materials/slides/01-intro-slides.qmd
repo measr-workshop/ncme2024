@@ -107,4 +107,4 @@ cmdstanr::check_cmdstan_toolchain()
 cmdstanr::install_cmdstan(cores = 2)
 ```
 
-For help installing RStan, CmdStanR, or configuring the toolchain, see the [prework page](materials/prework.qmd).
+For help installing RStan, CmdStanR, or configuring the toolchain, see the [prework page](../../materials/prework.qmd).
