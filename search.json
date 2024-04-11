@@ -494,7 +494,7 @@
     "href": "materials/slides/01-intro-slides.html#introductions",
     "title": "Diagnostic classification  modeling",
     "section": "Introductions",
-    "text": "Introductions\n\n\nJake Thompson\nAssistant Director of Psychometrics\nATLAS | University of Kansas\n\n\n\n\n   @wjakethompson\n   @wjakethompson"
+    "text": "Introductions\n\n\nW. Jake Thompson, Ph.D.\n\nAssistant Director of Psychometrics\n\nATLAS | University of Kansas\n\nResearch: Applications of diagnostic psychometric models\n\nLead psychometrician and Co-PI for the Dynamic Learnings Maps assessments\nPI for an IES-funded project to develop software for diagnostic models\n\n\n\n\n\n\n   @wjakethompson\n   @wjakethompson"
   },
   {
     "objectID": "materials/slides/01-intro-slides.html#acknowledgements",
@@ -529,7 +529,7 @@
     "href": "materials/slides/01-intro-slides.html#copy-and-run",
     "title": "Diagnostic classification  modeling",
     "section": "Copy and run",
-    "text": "Copy and run\n\ninstall.packages(c(\"measr\", \"fs\", \"usethis\"))\n\n\n# Optional\ninstall.packages(c(\"rstan\", \"StanHeaders\", \"cmdstanr\"),\n                 repos = c(\"https://mc-stan.org/r-packages\", getOption(\"repos\")))\n\n## check toolchain\ncmdstanr::check_cmdstan_toolchain()\ncmdstanr::install_cmdstan(cores = 2)\n\nFor help installing RStan, CmdStanR, or configuring the toolchain, see the prework page."
+    "text": "Copy and run\n\ninstall.packages(c(\"measr\", \"dplyr\", \"fs\", \"usethis\"))\n\n\n# Optional\ninstall.packages(c(\"rstan\", \"StanHeaders\", \"cmdstanr\"),\n                 repos = c(\"https://mc-stan.org/r-packages\", getOption(\"repos\")))\n\n## check toolchain\ncmdstanr::check_cmdstan_toolchain()\ncmdstanr::install_cmdstan(cores = 2)\n\nFor help installing RStan, CmdStanR, or configuring the toolchain, see the prework page."
   },
   {
     "objectID": "materials/04-evaluation.html",
