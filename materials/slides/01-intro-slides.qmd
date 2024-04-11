@@ -16,9 +16,14 @@ format:
 
 :::{.columns}
 :::{.column width="50%"}
-<br><br>Jake Thompson  
-Assistant Director of Psychometrics  
-[ATLAS](https://atlas.ku.edu) | University of Kansas
+<br>W. Jake Thompson, Ph.D.
+
+* Assistant Director of Psychometrics
+  * [ATLAS](https://atlas.ku.edu) | University of Kansas
+
+* Research: Applications of diagnostic psychometric models
+  * Lead psychometrician and Co-PI for the [Dynamic Learnings Maps](https://dynamiclearningmaps.org) assessments
+  * PI for an [IES-funded](https://ies.ed.gov/funding/grantsearch/details.asp?ID=4546) project to develop software for diagnostic models
 :::
 
 :::{.column width="50%"}
@@ -26,8 +31,8 @@ Assistant Director of Psychometrics
 <img src="figure/images/wjt-2022-hex.png" width="300px"/>
 
 :::{.small}
-{{< fa brands x-twitter >}} &nbsp; [@{{< var instructor.twitter >}}](https://www.twitter.com/{{< var instructor.twitter >}})  
-{{< fa brands github >}} &nbsp; [@{{< var instructor.github >}}](https://www.gitub.com/{{< var instructor.github >}})
+{{< fa brands github >}} &nbsp; [@{{< var instructor.github >}}](https://www.gitub.com/{{< var instructor.github >}})  
+{{< fa brands x-twitter >}} &nbsp; [@{{< var instructor.twitter >}}](https://www.twitter.com/{{< var instructor.twitter >}})
 :::
 :::
 :::
@@ -95,7 +100,7 @@ All materials are available on the workshop website:
 ```{r}
 #| echo: true
 #| eval: false
-install.packages(c("measr", "fs", "usethis"))
+install.packages(c("measr", "dplyr", "fs", "usethis"))
 
 
 # Optional
